@@ -1,6 +1,0 @@
-#hello world!
-#this is sanshi's word!
-#want have something!
-class srudent:
-    def __init__(self, name):
-        self.name = name
